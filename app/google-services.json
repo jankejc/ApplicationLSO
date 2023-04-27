@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529052655695",
+    "project_id": "lso-application",
+    "storage_bucket": "lso-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529052655695:android:931206892d8800cfbc8a3a",
+        "android_client_info": {
+          "package_name": "lso.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529052655695-205mfdajekkn9hg46m783oargkno9nlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzUqO_FU176d-GLggSegPEwksFXdq9oH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529052655695-205mfdajekkn9hg46m783oargkno9nlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

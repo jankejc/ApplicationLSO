@@ -1,0 +1,18 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Aplikacja LSO</string>
+    <string name="send_button">Wyślij!</string>
+    <string name="save_me_button">Zapisz <br/>Mnie!</string>
+    <string name="fullname_input">Imię i nazwisko</string>
+    <string name="service_input">Typ służby</string>
+    <string name="service_add_image">Dodanie uroczystości</string>
+    <string name="altar_add_image">Dodanie ministranta</string>
+    <string name="altar_delete_image">Usunięcie ministranta</string>
+    <string name="service_delete_image">Usunięcie uroczystości</string>
+    <string name="month_ranking_button">Ranking miesięczny</string>
+    <string name="all_time_ranking_button">Ranking roczny</string>
+    <string name="prevoius_month_ranking_button">Poprzedni miesiąc</string>
+    <string name="succ_saved">Brawo! Zapisałeś się! Teraz przygotuj się do mszy.</string>
+    <string name="succ_saved_ic">Ikonka, udało się.</string>
+    <string name="return_menu">Powróć.</string>
+
+</resources>
